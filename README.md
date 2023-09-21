@@ -4,7 +4,7 @@ Olá, me chamo Bruno Almeida!
 - 🌱 JavaScript ⎸Full stack Developer ⎸SQL | MongoDB | ReactJS​ | NodeJS
 - 👯 Procuro colaborar com Desenvolvimento Web e Mobile.
 - 💬 Gestão de Pessoas
-- 📫 Atráves do meu Linkedin ou Whatsapp
+- 📫 Atráves do meu Linkedin, gmail e WhatsApp.
 
 <div align="center">
 <a href="https://github.com/brunoalmeids1">
